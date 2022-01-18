@@ -22,8 +22,7 @@ at the root of the folder run the command :
 $ npm start 
 ```
 
-the server is now runing and to check the results I recommend the app EXPO
-in IOs or android, then scan the QR code given by the server (previous instruction).  
+The server is now running and to check the results I recommend the app EXPO in iOS or android, then scan the QR code given by the server (previous instruction).
 
 ## Demo 
 
